@@ -1,0 +1,390 @@
+Metropolitan area,Unemployment Rate,Rank,Year,Month,City/Area,State
+"Kahului-Wailuku-Lahaina, HI Metropolitan Statistical Area",2.1,1,2020,3,Kahului-Wailuku-Lahaina,HI
+"Urban Honolulu, HI Metropolitan Statistical Area",2.1,1,2020,3,Urban Honolulu,HI
+"Ames, IA Metropolitan Statistical Area",2.2,3,2020,3,Ames,IA
+"Ann Arbor, MI Metropolitan Statistical Area",2.4,4,2020,3,Ann Arbor,MI
+"Idaho Falls, ID Metropolitan Statistical Area",2.4,4,2020,3,Idaho Falls,ID
+"Madison, WI Metropolitan Statistical Area",2.4,4,2020,3,Madison,WI
+"Boise City, ID Metropolitan Statistical Area",2.5,7,2020,3,Boise City,ID
+"Charleston-North Charleston, SC Metropolitan Statistical Area",2.5,7,2020,3,Charleston-North Charleston,SC
+"Columbus, IN Metropolitan Statistical Area",2.5,7,2020,3,Columbus,IN
+"Dover-Durham, NH-ME Metropolitan NECTA",2.5,7,2020,3,Dover-Durham,NH-ME
+"Oklahoma City, OK Metropolitan Statistical Area",2.5,7,2020,3,Oklahoma City,OK
+"Champaign-Urbana, IL Metropolitan Statistical Area",2.6,12,2020,3,Champaign-Urbana,IL
+"Manchester, NH Metropolitan NECTA",2.6,12,2020,3,Manchester,NH
+"Manhattan, KS Metropolitan Statistical Area",2.6,12,2020,3,Manhattan,KS
+"Portsmouth, NH-ME Metropolitan NECTA",2.6,12,2020,3,Portsmouth,NH-ME
+"Burlington-South Burlington, VT Metropolitan NECTA",2.7,16,2020,3,Burlington-South Burlington,VT
+"Columbia, SC Metropolitan Statistical Area",2.7,16,2020,3,Columbia,SC
+"Fargo, ND-MN Metropolitan Statistical Area",2.7,16,2020,3,Fargo,ND-MN
+"Grand Rapids-Wyoming, MI Metropolitan Statistical Area",2.7,16,2020,3,Grand Rapids-Wyoming,MI
+"Greenville-Anderson-Mauldin, SC Metropolitan Statistical Area",2.7,16,2020,3,Greenville-Anderson-Mauldin,SC
+"Hilton Head Island-Bluffton-Beaufort, SC Metropolitan Statistical Area",2.7,16,2020,3,Hilton Head Island-Bluffton-Beaufort,SC
+"Appleton, WI Metropolitan Statistical Area",2.8,22,2020,3,Appleton,WI
+"Bloomington, IL Metropolitan Statistical Area",2.8,22,2020,3,Bloomington,IL
+"Elkhart-Goshen, IN Metropolitan Statistical Area",2.8,22,2020,3,Elkhart-Goshen,IN
+"Huntsville, AL Metropolitan Statistical Area",2.8,22,2020,3,Huntsville,AL
+"Iowa City, IA Metropolitan Statistical Area",2.8,22,2020,3,Iowa City,IA
+"Lawton, OK Metropolitan Statistical Area",2.8,22,2020,3,Lawton,OK
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metropolitan Statistical Area",2.8,22,2020,3,Nashville-Davidson--Murfreesboro--Franklin,TN
+"Oshkosh-Neenah, WI Metropolitan Statistical Area",2.8,22,2020,3,Oshkosh-Neenah,WI
+"Pocatello, ID Metropolitan Statistical Area",2.8,22,2020,3,Pocatello,ID
+"Portland-South Portland, ME Metropolitan NECTA",2.8,22,2020,3,Portland-South Portland,ME
+"Sheboygan, WI Metropolitan Statistical Area",2.8,22,2020,3,Sheboygan,WI
+"Spartanburg, SC Metropolitan Statistical Area",2.8,22,2020,3,Spartanburg,SC
+"Tulsa, OK Metropolitan Statistical Area",2.8,22,2020,3,Tulsa,OK
+"Twin Falls, ID Metropolitan Statistical Area",2.8,22,2020,3,Twin Falls,ID
+"Wausau, WI Metropolitan Statistical Area",2.8,22,2020,3,Wausau,WI
+"Bismarck, ND Metropolitan Statistical Area",2.9,37,2020,3,Bismarck,ND
+"Charlottesville, VA Metropolitan Statistical Area",2.9,37,2020,3,Charlottesville,VA
+"Corvallis, OR Metropolitan Statistical Area",2.9,37,2020,3,Corvallis,OR
+"Decatur, AL Metropolitan Statistical Area",2.9,37,2020,3,Decatur,AL
+"Enid, OK Metropolitan Statistical Area",2.9,37,2020,3,Enid,OK
+"La Crosse-Onalaska, WI-MN Metropolitan Statistical Area",2.9,37,2020,3,La Crosse-Onalaska,WI-MN
+"Lafayette-West Lafayette, IN Metropolitan Statistical Area",2.9,37,2020,3,Lafayette-West Lafayette,IN
+"Lawrence, KS Metropolitan Statistical Area",2.9,37,2020,3,Lawrence,KS
+"Logan, UT-ID Metropolitan Statistical Area",2.9,37,2020,3,Logan,UT-ID
+"Auburn-Opelika, AL Metropolitan Statistical Area",3.0,46,2020,3,Auburn-Opelika,AL
+"Birmingham-Hoover, AL Metropolitan Statistical Area",3.0,46,2020,3,Birmingham-Hoover,AL
+"Boston-Cambridge-Nashua, MA-NH Metropolitan NECTA",3.0,46,2020,3,Boston-Cambridge-Nashua,MA-NH
+"Columbia, MO Metropolitan Statistical Area",3.0,46,2020,3,Columbia,MO
+"Daphne-Fairhope-Foley, AL Metropolitan Statistical Area",3.0,46,2020,3,Daphne-Fairhope-Foley,AL
+"Fond du Lac, WI Metropolitan Statistical Area",3.0,46,2020,3,Fond du Lac,WI
+"Indianapolis-Carmel-Anderson, IN Metropolitan Statistical Area",3.0,46,2020,3,Indianapolis-Carmel-Anderson,IN
+"Lansing-East Lansing, MI Metropolitan Statistical Area",3.0,46,2020,3,Lansing-East Lansing,MI
+"Staunton-Waynesboro, VA Metropolitan Statistical Area",3.0,46,2020,3,Staunton-Waynesboro,VA
+"California-Lexington Park, MD Metropolitan Statistical Area",3.1,55,2020,3,California-Lexington Park,MD
+"Harrisonburg, VA Metropolitan Statistical Area",3.1,55,2020,3,Harrisonburg,VA
+"Mankato-North Mankato, MN Metropolitan Statistical Area",3.1,55,2020,3,Mankato-North Mankato,MN
+"Midland, TX Metropolitan Statistical Area",3.1,55,2020,3,Midland,TX
+"Sioux Falls, SD Metropolitan Statistical Area",3.1,55,2020,3,Sioux Falls,SD
+"Springfield, IL Metropolitan Statistical Area",3.1,55,2020,3,Springfield,IL
+"Tuscaloosa, AL Metropolitan Statistical Area",3.1,55,2020,3,Tuscaloosa,AL
+"Winchester, VA-WV Metropolitan Statistical Area",3.1,55,2020,3,Winchester,VA-WV
+"Carbondale-Marion, IL Metropolitan Statistical Area",3.2,63,2020,3,Carbondale-Marion,IL
+"Florence, SC Metropolitan Statistical Area",3.2,63,2020,3,Florence,SC
+"Fort Wayne, IN Metropolitan Statistical Area",3.2,63,2020,3,Fort Wayne,IN
+"Grand Forks, ND-MN Metropolitan Statistical Area",3.2,63,2020,3,Grand Forks,ND-MN
+"Green Bay, WI Metropolitan Statistical Area",3.2,63,2020,3,Green Bay,WI
+"Kalamazoo-Portage, MI Metropolitan Statistical Area",3.2,63,2020,3,Kalamazoo-Portage,MI
+"Lewiston, ID-WA Metropolitan Statistical Area",3.2,63,2020,3,Lewiston,ID-WA
+"Bloomington, IN Metropolitan Statistical Area",3.3,70,2020,3,Bloomington,IN
+"Dothan, AL Metropolitan Statistical Area",3.3,70,2020,3,Dothan,AL
+"Evansville, IN-KY Metropolitan Statistical Area",3.3,70,2020,3,Evansville,IN-KY
+"Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area",3.3,70,2020,3,Fayetteville-Springdale-Rogers,AR-MO
+"Lewiston-Auburn, ME Metropolitan NECTA",3.3,70,2020,3,Lewiston-Auburn,ME
+"Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area",3.3,70,2020,3,Milwaukee-Waukesha-West Allis,WI
+"Topeka, KS Metropolitan Statistical Area",3.3,70,2020,3,Topeka,KS
+"Trenton, NJ Metropolitan Statistical Area",3.3,70,2020,3,Trenton,NJ
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Statistical Area",3.3,70,2020,3,Washington-Arlington-Alexandria,DC-VA-MD-WV
+"Amarillo, TX Metropolitan Statistical Area",3.4,79,2020,3,Amarillo,TX
+"Gainesville, GA Metropolitan Statistical Area",3.4,79,2020,3,Gainesville,GA
+"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",3.4,79,2020,3,Minneapolis-St. Paul-Bloomington,MN-WI
+"Monroe, MI Metropolitan Statistical Area",3.4,79,2020,3,Monroe,MI
+"Montgomery, AL Metropolitan Statistical Area",3.4,79,2020,3,Montgomery,AL
+"Provo-Orem, UT Metropolitan Statistical Area",3.4,79,2020,3,Provo-Orem,UT
+"Richmond, VA Metropolitan Statistical Area",3.4,79,2020,3,Richmond,VA
+"Roanoke, VA Metropolitan Statistical Area",3.4,79,2020,3,Roanoke,VA
+"Rochester, MN Metropolitan Statistical Area",3.4,79,2020,3,Rochester,MN
+"San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area",3.4,79,2020,3,San Jose-Sunnyvale-Santa Clara,CA
+"Austin-Round Rock, TX Metropolitan Statistical Area",3.5,89,2020,3,Austin-Round Rock,TX
+"Baltimore-Columbia-Towson, MD Metropolitan Statistical Area",3.5,89,2020,3,Baltimore-Columbia-Towson,MD
+"Danbury, CT Metropolitan NECTA",3.5,89,2020,3,Danbury,CT
+"Jackson, MI Metropolitan Statistical Area",3.5,89,2020,3,Jackson,MI
+"Knoxville, TN Metropolitan Statistical Area",3.5,89,2020,3,Knoxville,TN
+"Portland-Vancouver-Hillsboro, OR-WA Metropolitan Statistical Area",3.5,89,2020,3,Portland-Vancouver-Hillsboro,OR-WA
+"San Francisco-Oakland-Hayward, CA Metropolitan Statistical Area",3.5,89,2020,3,San Francisco-Oakland-Hayward,CA
+"Wichita, KS Metropolitan Statistical Area",3.5,89,2020,3,Wichita,KS
+"Asheville, NC Metropolitan Statistical Area",3.6,97,2020,3,Asheville,NC
+"Billings, MT Metropolitan Statistical Area",3.6,97,2020,3,Billings,MT
+"Des Moines-West Des Moines, IA Metropolitan Statistical Area",3.6,97,2020,3,Des Moines-West Des Moines,IA
+"Durham-Chapel Hill, NC Metropolitan Statistical Area",3.6,97,2020,3,Durham-Chapel Hill,NC
+"Florence-Muscle Shoals, AL Metropolitan Statistical Area",3.6,97,2020,3,Florence-Muscle Shoals,AL
+"Jefferson City, MO Metropolitan Statistical Area",3.6,97,2020,3,Jefferson City,MO
+"Rapid City, SD Metropolitan Statistical Area",3.6,97,2020,3,Rapid City,SD
+"Santa Rosa, CA Metropolitan Statistical Area",3.6,97,2020,3,Santa Rosa,CA
+"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",3.6,97,2020,3,Virginia Beach-Norfolk-Newport News,VA-NC
+"Worcester, MA-CT Metropolitan NECTA",3.6,97,2020,3,Worcester,MA-CT
+"Bangor, ME Metropolitan NECTA",3.7,107,2020,3,Bangor,ME
+"Battle Creek, MI Metropolitan Statistical Area",3.7,107,2020,3,Battle Creek,MI
+"Chattanooga, TN-GA Metropolitan Statistical Area",3.7,107,2020,3,Chattanooga,TN-GA
+"College Station-Bryan, TX Metropolitan Statistical Area",3.7,107,2020,3,College Station-Bryan,TX
+"Crestview-Fort Walton Beach-Destin, FL Metropolitan Statistical Area",3.7,107,2020,3,Crestview-Fort Walton Beach-Destin,FL
+"Eau Claire, WI Metropolitan Statistical Area",3.7,107,2020,3,Eau Claire,WI
+"Great Falls, MT Metropolitan Statistical Area",3.7,107,2020,3,Great Falls,MT
+"Ithaca, NY Metropolitan Statistical Area",3.7,107,2020,3,Ithaca,NY
+"Lubbock, TX Metropolitan Statistical Area",3.7,107,2020,3,Lubbock,TX
+"New Haven, CT Metropolitan NECTA",3.7,107,2020,3,New Haven,CT
+"Raleigh, NC Metropolitan Statistical Area",3.7,107,2020,3,Raleigh,NC
+"Sumter, SC Metropolitan Statistical Area",3.7,107,2020,3,Sumter,SC
+"Cheyenne, WY Metropolitan Statistical Area",3.8,119,2020,3,Cheyenne,WY
+"Danville, IL Metropolitan Statistical Area",3.8,119,2020,3,Danville,IL
+"Jackson, TN Metropolitan Statistical Area",3.8,119,2020,3,Jackson,TN
+"Lincoln, NE Metropolitan Statistical Area",3.8,119,2020,3,Lincoln,NE
+"Niles-Benton Harbor, MI Metropolitan Statistical Area",3.8,119,2020,3,Niles-Benton Harbor,MI
+"Ogden-Clearfield, UT Metropolitan Statistical Area",3.8,119,2020,3,Ogden-Clearfield,UT
+"Salt Lake City, UT Metropolitan Statistical Area",3.8,119,2020,3,Salt Lake City,UT
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA Metropolitan Statistical Area",3.8,119,2020,3,San Luis Obispo-Paso Robles-Arroyo Grande,CA
+"Sioux City, IA-NE-SD Metropolitan Statistical Area",3.8,119,2020,3,Sioux City,IA-NE-SD
+"South Bend-Mishawaka, IN-MI Metropolitan Statistical Area",3.8,119,2020,3,South Bend-Mishawaka,IN-MI
+"Anniston-Oxford-Jacksonville, AL Metropolitan Statistical Area",3.9,129,2020,3,Anniston-Oxford-Jacksonville,AL
+"Bend-Redmond, OR Metropolitan Statistical Area",3.9,129,2020,3,Bend-Redmond,OR
+"Charlotte-Concord-Gastonia, NC-SC Metropolitan Statistical Area",3.9,129,2020,3,Charlotte-Concord-Gastonia,NC-SC
+"Cleveland, TN Metropolitan Statistical Area",3.9,129,2020,3,Cleveland,TN
+"Coeur d'Alene, ID Metropolitan Statistical Area",3.9,129,2020,3,Coeur d'Alene,ID
+"Gainesville, FL Metropolitan Statistical Area",3.9,129,2020,3,Gainesville,FL
+"Hagerstown-Martinsburg, MD-WV Metropolitan Statistical Area",3.9,129,2020,3,Hagerstown-Martinsburg,MD-WV
+"Hartford-West Hartford-East Hartford, CT Metropolitan NECTA",3.9,129,2020,3,Hartford-West Hartford-East Hartford,CT
+"Jonesboro, AR Metropolitan Statistical Area",3.9,129,2020,3,Jonesboro,AR
+"Kansas City, MO-KS Metropolitan Statistical Area",3.9,129,2020,3,Kansas City,MO-KS
+"Lynchburg, VA Metropolitan Statistical Area",3.9,129,2020,3,Lynchburg,VA
+"Midland, MI Metropolitan Statistical Area",3.9,129,2020,3,Midland,MI
+"Missoula, MT Metropolitan Statistical Area",3.9,129,2020,3,Missoula,MT
+"Peoria, IL Metropolitan Statistical Area",3.9,129,2020,3,Peoria,IL
+"Springfield, MA-CT Metropolitan NECTA",3.9,129,2020,3,Springfield,MA-CT
+"Springfield, MO Metropolitan Statistical Area",3.9,129,2020,3,Springfield,MO
+"Abilene, TX Metropolitan Statistical Area",4.0,145,2020,3,Abilene,TX
+"Blacksburg-Christiansburg-Radford, VA Metropolitan Statistical Area",4.0,145,2020,3,Blacksburg-Christiansburg-Radford,VA
+"Boulder, CO Metropolitan Statistical Area",4.0,145,2020,3,Boulder,CO
+"Bridgeport-Stamford-Norwalk, CT Metropolitan NECTA",4.0,145,2020,3,Bridgeport-Stamford-Norwalk,CT
+"Eugene, OR Metropolitan Statistical Area",4.0,145,2020,3,Eugene,OR
+"Hickory-Lenoir-Morganton, NC Metropolitan Statistical Area",4.0,145,2020,3,Hickory-Lenoir-Morganton,NC
+"Janesville-Beloit, WI Metropolitan Statistical Area",4.0,145,2020,3,Janesville-Beloit,WI
+"Miami-Fort Lauderdale-West Palm Beach, FL Metropolitan Statistical Area",4.0,145,2020,3,Miami-Fort Lauderdale-West Palm Beach,FL
+"Muncie, IN Metropolitan Statistical Area",4.0,145,2020,3,Muncie,IN
+"Napa, CA Metropolitan Statistical Area",4.0,145,2020,3,Napa,CA
+"Naples-Immokalee-Marco Island, FL Metropolitan Statistical Area",4.0,145,2020,3,Naples-Immokalee-Marco Island,FL
+"New York-Newark-Jersey City, NY-NJ-PA Metropolitan Statistical Area",4.0,145,2020,3,New York-Newark-Jersey City,NY-NJ-PA
+"St. Louis, MO-IL Metropolitan Statistical Area(1)",4.0,145,2020,3,St. Louis,MO-IL
+"Salem, OR Metropolitan Statistical Area",4.0,145,2020,3,Salem,OR
+"San Angelo, TX Metropolitan Statistical Area",4.0,145,2020,3,San Angelo,TX
+"Wilmington, NC Metropolitan Statistical Area",4.0,145,2020,3,Wilmington,NC
+"Winston-Salem, NC Metropolitan Statistical Area",4.0,145,2020,3,Winston-Salem,NC
+"Albany-Schenectady-Troy, NY Metropolitan Statistical Area",4.1,162,2020,3,Albany-Schenectady-Troy,NY
+"Bremerton-Silverdale, WA Metropolitan Statistical Area",4.1,162,2020,3,Bremerton-Silverdale,WA
+"Burlington, NC Metropolitan Statistical Area",4.1,162,2020,3,Burlington,NC
+"Dubuque, IA Metropolitan Statistical Area",4.1,162,2020,3,Dubuque,IA
+"Johnson City, TN Metropolitan Statistical Area",4.1,162,2020,3,Johnson City,TN
+"Joplin, MO Metropolitan Statistical Area",4.1,162,2020,3,Joplin,MO
+"Kokomo, IN Metropolitan Statistical Area",4.1,162,2020,3,Kokomo,IN
+"Leominster-Gardner, MA Metropolitan NECTA",4.1,162,2020,3,Leominster-Gardner,MA
+"Muskegon, MI Metropolitan Statistical Area",4.1,162,2020,3,Muskegon,MI
+"Norwich-New London-Westerly, CT-RI Metropolitan NECTA",4.1,162,2020,3,Norwich-New London-Westerly,CT-RI
+"St. Joseph, MO-KS Metropolitan Statistical Area",4.1,162,2020,3,St. Joseph,MO-KS
+"San Diego-Carlsbad, CA Metropolitan Statistical Area",4.1,162,2020,3,San Diego-Carlsbad,CA
+"Athens-Clarke County, GA Metropolitan Statistical Area",4.2,174,2020,3,Athens-Clarke County,GA
+"Atlanta-Sandy Springs-Roswell, GA Metropolitan Statistical Area",4.2,174,2020,3,Atlanta-Sandy Springs-Roswell,GA
+"Augusta-Richmond County, GA-SC Metropolitan Statistical Area",4.2,174,2020,3,Augusta-Richmond County,GA-SC
+"Cedar Rapids, IA Metropolitan Statistical Area",4.2,174,2020,3,Cedar Rapids,IA
+"Davenport-Moline-Rock Island, IA-IL Metropolitan Statistical Area",4.2,174,2020,3,Davenport-Moline-Rock Island,IA-IL
+"Fort Collins, CO Metropolitan Statistical Area",4.2,174,2020,3,Fort Collins,CO
+"Fort Smith, AR-OK Metropolitan Statistical Area",4.2,174,2020,3,Fort Smith,AR-OK
+"Gettysburg, PA Metropolitan Statistical Area",4.2,174,2020,3,Gettysburg,PA
+"Kankakee, IL Metropolitan Statistical Area",4.2,174,2020,3,Kankakee,IL
+"Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area",4.2,174,2020,3,Kingsport-Bristol-Bristol,TN-VA
+"Kingston, NY Metropolitan Statistical Area",4.2,174,2020,3,Kingston,NY
+"Mobile, AL Metropolitan Statistical Area",4.2,174,2020,3,Mobile,AL
+"Morristown, TN Metropolitan Statistical Area",4.2,174,2020,3,Morristown,TN
+"North Port-Sarasota-Bradenton, FL Metropolitan Statistical Area",4.2,174,2020,3,North Port-Sarasota-Bradenton,FL
+"Orlando-Kissimmee-Sanford, FL Metropolitan Statistical Area",4.2,174,2020,3,Orlando-Kissimmee-Sanford,FL
+"St. Cloud, MN Metropolitan Statistical Area",4.2,174,2020,3,St. Cloud,MN
+"St. George, UT Metropolitan Statistical Area",4.2,174,2020,3,St. George,UT
+"San Antonio-New Braunfels, TX Metropolitan Statistical Area",4.2,174,2020,3,San Antonio-New Braunfels,TX
+"Savannah, GA Metropolitan Statistical Area",4.2,174,2020,3,Savannah,GA
+"Tallahassee, FL Metropolitan Statistical Area",4.2,174,2020,3,Tallahassee,FL
+"Terre Haute, IN Metropolitan Statistical Area",4.2,174,2020,3,Terre Haute,IN
+"Warner Robins, GA Metropolitan Statistical Area",4.2,174,2020,3,Warner Robins,GA
+"Waterloo-Cedar Falls, IA Metropolitan Statistical Area",4.2,174,2020,3,Waterloo-Cedar Falls,IA
+"Wichita Falls, TX Metropolitan Statistical Area",4.2,174,2020,3,Wichita Falls,TX
+"Brunswick, GA Metropolitan Statistical Area",4.3,198,2020,3,Brunswick,GA
+"Cape Coral-Fort Myers, FL Metropolitan Statistical Area",4.3,198,2020,3,Cape Coral-Fort Myers,FL
+"Cape Girardeau, MO-IL Metropolitan Statistical Area",4.3,198,2020,3,Cape Girardeau,MO-IL
+"Dallas-Fort Worth-Arlington, TX Metropolitan Statistical Area",4.3,198,2020,3,Dallas-Fort Worth-Arlington,TX
+"Flint, MI Metropolitan Statistical Area",4.3,198,2020,3,Flint,MI
+"Jacksonville, FL Metropolitan Statistical Area",4.3,198,2020,3,Jacksonville,FL
+"Memphis, TN-MS-AR Metropolitan Statistical Area",4.3,198,2020,3,Memphis,TN-MS-AR
+"Morgantown, WV Metropolitan Statistical Area",4.3,198,2020,3,Morgantown,WV
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metropolitan Statistical Area",4.3,198,2020,3,Myrtle Beach-Conway-North Myrtle Beach,SC-NC
+"New Bern, NC Metropolitan Statistical Area",4.3,198,2020,3,New Bern,NC
+"Pensacola-Ferry Pass-Brent, FL Metropolitan Statistical Area",4.3,198,2020,3,Pensacola-Ferry Pass-Brent,FL
+"Racine, WI Metropolitan Statistical Area",4.3,198,2020,3,Racine,WI
+"Sherman-Denison, TX Metropolitan Statistical Area",4.3,198,2020,3,Sherman-Denison,TX
+"Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area",4.3,198,2020,3,Tampa-St. Petersburg-Clearwater,FL
+"Walla Walla, WA Metropolitan Statistical Area",4.3,198,2020,3,Walla Walla,WA
+"Columbus, OH Metropolitan Statistical Area",4.4,213,2020,3,Columbus,OH
+"Decatur, IL Metropolitan Statistical Area",4.4,213,2020,3,Decatur,IL
+"Gadsden, AL Metropolitan Statistical Area",4.4,213,2020,3,Gadsden,AL
+"Greensboro-High Point, NC Metropolitan Statistical Area",4.4,213,2020,3,Greensboro-High Point,NC
+"Greenville, NC Metropolitan Statistical Area",4.4,213,2020,3,Greenville,NC
+"Hattiesburg, MS Metropolitan Statistical Area",4.4,213,2020,3,Hattiesburg,MS
+"Lancaster, PA Metropolitan Statistical Area",4.4,213,2020,3,Lancaster,PA
+"Little Rock-North Little Rock-Conway, AR Metropolitan Statistical Area",4.4,213,2020,3,Little Rock-North Little Rock-Conway,AR
+"Odessa, TX Metropolitan Statistical Area",4.4,213,2020,3,Odessa,TX
+"Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area",4.4,213,2020,3,Omaha-Council Bluffs,NE-IA
+"Palm Bay-Melbourne-Titusville, FL Metropolitan Statistical Area",4.4,213,2020,3,Palm Bay-Melbourne-Titusville,FL
+"Panama City, FL Metropolitan Statistical Area",4.4,213,2020,3,Panama City,FL
+"Rome, GA Metropolitan Statistical Area",4.4,213,2020,3,Rome,GA
+"State College, PA Metropolitan Statistical Area",4.4,213,2020,3,State College,PA
+"Albany, OR Metropolitan Statistical Area",4.5,227,2020,3,Albany,OR
+"Casper, WY Metropolitan Statistical Area",4.5,227,2020,3,Casper,WY
+"Goldsboro, NC Metropolitan Statistical Area",4.5,227,2020,3,Goldsboro,NC
+"Jackson, MS Metropolitan Statistical Area",4.5,227,2020,3,Jackson,MS
+"Lexington-Fayette, KY Metropolitan Statistical Area",4.5,227,2020,3,Lexington-Fayette,KY
+"Louisville/Jefferson County, KY-IN Metropolitan Statistical Area",4.5,227,2020,3,Louisville/Jefferson County,KY-IN
+"Michigan City-La Porte, IN Metropolitan Statistical Area",4.5,227,2020,3,Michigan City-La Porte,IN
+"Olympia-Tumwater, WA Metropolitan Statistical Area",4.5,227,2020,3,Olympia-Tumwater,WA
+"Saginaw, MI Metropolitan Statistical Area",4.5,227,2020,3,Saginaw,MI
+"Santa Fe, NM Metropolitan Statistical Area",4.5,227,2020,3,Santa Fe,NM
+"Tyler, TX Metropolitan Statistical Area",4.5,227,2020,3,Tyler,TX
+"Valdosta, GA Metropolitan Statistical Area",4.5,227,2020,3,Valdosta,GA
+"Waco, TX Metropolitan Statistical Area",4.5,227,2020,3,Waco,TX
+"Bellingham, WA Metropolitan Statistical Area",4.6,240,2020,3,Bellingham,WA
+"Cincinnati, OH-KY-IN Metropolitan Statistical Area",4.6,240,2020,3,Cincinnati,OH-KY-IN
+"Denver-Aurora-Lakewood, CO Metropolitan Statistical Area",4.6,240,2020,3,Denver-Aurora-Lakewood,CO
+"Greeley, CO Metropolitan Statistical Area",4.6,240,2020,3,Greeley,CO
+"Macon-Bibb County, GA Metropolitan Statistical Area",4.6,240,2020,3,Macon-Bibb County,GA
+"Medford, OR Metropolitan Statistical Area",4.6,240,2020,3,Medford,OR
+"Oxnard-Thousand Oaks-Ventura, CA Metropolitan Statistical Area",4.6,240,2020,3,Oxnard-Thousand Oaks-Ventura,CA
+"Pittsfield, MA Metropolitan NECTA",4.6,240,2020,3,Pittsfield,MA
+"Rockford, IL Metropolitan Statistical Area",4.6,240,2020,3,Rockford,IL
+"Bay City, MI Metropolitan Statistical Area",4.7,249,2020,3,Bay City,MI
+"Grand Island, NE Metropolitan Statistical Area",4.7,249,2020,3,Grand Island,NE
+"Hinesville, GA Metropolitan Statistical Area",4.7,249,2020,3,Hinesville,GA
+"Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area",4.7,249,2020,3,Phoenix-Mesa-Scottsdale,AZ
+"Rochester, NY Metropolitan Statistical Area",4.7,249,2020,3,Rochester,NY
+"Sacramento--Roseville--Arden-Arcade, CA Metropolitan Statistical Area",4.7,249,2020,3,Sacramento--Roseville--Arden-Arcade,CA
+"Chicago-Naperville-Elgin, IL-IN-WI Metropolitan Statistical Area",4.8,255,2020,3,Chicago-Naperville-Elgin,IL-IN-WI
+"Clarksville, TN-KY Metropolitan Statistical Area",4.8,255,2020,3,Clarksville,TN-KY
+"Columbus, GA-AL Metropolitan Statistical Area",4.8,255,2020,3,Columbus,GA-AL
+"Harrisburg-Carlisle, PA Metropolitan Statistical Area",4.8,255,2020,3,Harrisburg-Carlisle,PA
+"Hot Springs, AR Metropolitan Statistical Area",4.8,255,2020,3,Hot Springs,AR
+"Dayton, OH Metropolitan Statistical Area",4.9,260,2020,3,Dayton,OH
+"Deltona-Daytona Beach-Ormond Beach, FL Metropolitan Statistical Area",4.9,260,2020,3,Deltona-Daytona Beach-Ormond Beach,FL
+"Detroit-Warren-Dearborn, MI Metropolitan Statistical Area",4.9,260,2020,3,Detroit-Warren-Dearborn,MI
+"Duluth, MN-WI Metropolitan Statistical Area",4.9,260,2020,3,Duluth,MN-WI
+"Elmira, NY Metropolitan Statistical Area",4.9,260,2020,3,Elmira,NY
+"Jacksonville, NC Metropolitan Statistical Area",4.9,260,2020,3,Jacksonville,NC
+"Killeen-Temple, TX Metropolitan Statistical Area",4.9,260,2020,3,Killeen-Temple,TX
+"Lakeland-Winter Haven, FL Metropolitan Statistical Area",4.9,260,2020,3,Lakeland-Winter Haven,FL
+"Port St. Lucie, FL Metropolitan Statistical Area",4.9,260,2020,3,Port St. Lucie,FL
+"Providence-Warwick, RI-MA Metropolitan NECTA",4.9,260,2020,3,Providence-Warwick,RI-MA
+"Punta Gorda, FL Metropolitan Statistical Area",4.9,260,2020,3,Punta Gorda,FL
+"Syracuse, NY Metropolitan Statistical Area",4.9,260,2020,3,Syracuse,NY
+"El Paso, TX Metropolitan Statistical Area",5.0,272,2020,3,El Paso,TX
+"Fairbanks, AK Metropolitan Statistical Area",5.0,272,2020,3,Fairbanks,AK
+"Vallejo-Fairfield, CA Metropolitan Statistical Area",5.0,272,2020,3,Vallejo-Fairfield,CA
+"Waterbury, CT Metropolitan NECTA",5.0,272,2020,3,Waterbury,CT
+"York-Hanover, PA Metropolitan Statistical Area",5.0,272,2020,3,York-Hanover,PA
+"Dalton, GA Metropolitan Statistical Area",5.1,277,2020,3,Dalton,GA
+"Grants Pass, OR Metropolitan Statistical Area",5.1,277,2020,3,Grants Pass,OR
+"Gulfport-Biloxi-Pascagoula, MS Metropolitan Statistical Area",5.1,277,2020,3,Gulfport-Biloxi-Pascagoula,MS
+"Houston-The Woodlands-Sugar Land, TX Metropolitan Statistical Area",5.1,277,2020,3,Houston-The Woodlands-Sugar Land,TX
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metropolitan Statistical Area",5.1,277,2020,3,Philadelphia-Camden-Wilmington,PA-NJ-DE-MD
+"Prescott, AZ Metropolitan Statistical Area",5.1,277,2020,3,Prescott,AZ
+"Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area",5.1,277,2020,3,Riverside-San Bernardino-Ontario,CA
+"Sebastian-Vero Beach, FL Metropolitan Statistical Area",5.1,277,2020,3,Sebastian-Vero Beach,FL
+"Utica-Rome, NY Metropolitan Statistical Area",5.1,277,2020,3,Utica-Rome,NY
+"Victoria, TX Metropolitan Statistical Area",5.1,277,2020,3,Victoria,TX
+"Albany, GA Metropolitan Statistical Area",5.2,287,2020,3,Albany,GA
+"Anchorage, AK Metropolitan Statistical Area",5.2,287,2020,3,Anchorage,AK
+"Buffalo-Cheektowaga-Niagara Falls, NY Metropolitan Statistical Area",5.2,287,2020,3,Buffalo-Cheektowaga-Niagara Falls,NY
+"Laredo, TX Metropolitan Statistical Area",5.2,287,2020,3,Laredo,TX
+"Lebanon, PA Metropolitan Statistical Area",5.2,287,2020,3,Lebanon,PA
+"Mount Vernon-Anacortes, WA Metropolitan Statistical Area",5.2,287,2020,3,Mount Vernon-Anacortes,WA
+"Ocala, FL Metropolitan Statistical Area",5.2,287,2020,3,Ocala,FL
+"Owensboro, KY Metropolitan Statistical Area",5.2,287,2020,3,Owensboro,KY
+"Spokane-Spokane Valley, WA Metropolitan Statistical Area",5.2,287,2020,3,Spokane-Spokane Valley,WA
+"Tucson, AZ Metropolitan Statistical Area",5.2,287,2020,3,Tucson,AZ
+"Albuquerque, NM Metropolitan Statistical Area",5.3,297,2020,3,Albuquerque,NM
+"Kennewick-Richland, WA Metropolitan Statistical Area",5.3,297,2020,3,Kennewick-Richland,WA
+"Longview, TX Metropolitan Statistical Area",5.3,297,2020,3,Longview,TX
+"New Bedford, MA Metropolitan NECTA",5.3,297,2020,3,New Bedford,MA
+"Reno, NV Metropolitan Statistical Area",5.3,297,2020,3,Reno,NV
+"Baton Rouge, LA Metropolitan Statistical Area",5.4,302,2020,3,Baton Rouge,LA
+"Bowling Green, KY Metropolitan Statistical Area",5.4,302,2020,3,Bowling Green,KY
+"Chambersburg-Waynesboro, PA Metropolitan Statistical Area",5.4,302,2020,3,Chambersburg-Waynesboro,PA
+"Seattle-Tacoma-Bellevue, WA Metropolitan Statistical Area",5.4,302,2020,3,Seattle-Tacoma-Bellevue,WA
+"Texarkana, TX-AR Metropolitan Statistical Area",5.4,302,2020,3,Texarkana,TX-AR
+"Toledo, OH Metropolitan Statistical Area",5.4,302,2020,3,Toledo,OH
+"Wenatchee, WA Metropolitan Statistical Area",5.4,302,2020,3,Wenatchee,WA
+"Barnstable Town, MA Metropolitan NECTA",5.5,309,2020,3,Barnstable Town,MA
+"Colorado Springs, CO Metropolitan Statistical Area",5.5,309,2020,3,Colorado Springs,CO
+"Cumberland, MD-WV Metropolitan Statistical Area",5.5,309,2020,3,Cumberland,MD-WV
+"Dover, DE Metropolitan Statistical Area",5.5,309,2020,3,Dover,DE
+"Fayetteville, NC Metropolitan Statistical Area",5.5,309,2020,3,Fayetteville,NC
+"Glens Falls, NY Metropolitan Statistical Area",5.5,309,2020,3,Glens Falls,NY
+"Rocky Mount, NC Metropolitan Statistical Area",5.5,309,2020,3,Rocky Mount,NC
+"Akron, OH Metropolitan Statistical Area",5.6,316,2020,3,Akron,OH
+"Binghamton, NY Metropolitan Statistical Area",5.6,316,2020,3,Binghamton,NY
+"Lake Charles, LA Metropolitan Statistical Area",5.6,316,2020,3,Lake Charles,LA
+"Longview, WA Metropolitan Statistical Area",5.6,316,2020,3,Longview,WA
+"New Orleans-Metairie, LA Metropolitan Statistical Area",5.6,316,2020,3,New Orleans-Metairie,LA
+"Santa Maria-Santa Barbara, CA Metropolitan Statistical Area",5.6,316,2020,3,Santa Maria-Santa Barbara,CA
+"Springfield, OH Metropolitan Statistical Area",5.6,316,2020,3,Springfield,OH
+"Corpus Christi, TX Metropolitan Statistical Area",5.7,323,2020,3,Corpus Christi,TX
+"Elizabethtown-Fort Knox, KY Metropolitan Statistical Area",5.7,323,2020,3,Elizabethtown-Fort Knox,KY
+"Houma-Thibodaux, LA Metropolitan Statistical Area",5.7,323,2020,3,Houma-Thibodaux,LA
+"Lima, OH Metropolitan Statistical Area",5.7,323,2020,3,Lima,OH
+"Los Angeles-Long Beach-Anaheim, CA Metropolitan Statistical Area",5.7,323,2020,3,Los Angeles-Long Beach-Anaheim,CA
+"Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area",5.8,328,2020,3,Allentown-Bethlehem-Easton,PA-NJ
+"Atlantic City-Hammonton, NJ Metropolitan Statistical Area",5.8,328,2020,3,Atlantic City-Hammonton,NJ
+"Salisbury, MD-DE Metropolitan Statistical Area",5.8,328,2020,3,Salisbury,MD-DE
+"Charleston, WV Metropolitan Statistical Area",5.9,331,2020,3,Charleston,WV
+"Reading, PA Metropolitan Statistical Area",5.9,331,2020,3,Reading,PA
+"Mansfield, OH Metropolitan Statistical Area",6.0,333,2020,3,Mansfield,OH
+"Canton-Massillon, OH Metropolitan Statistical Area",6.1,334,2020,3,Canton-Massillon,OH
+"Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area",6.1,334,2020,3,Huntington-Ashland,WV-KY-OH
+"Lafayette, LA Metropolitan Statistical Area",6.1,334,2020,3,Lafayette,LA
+"Sebring, FL Metropolitan Statistical Area",6.1,334,2020,3,Sebring,FL
+"Altoona, PA Metropolitan Statistical Area",6.2,338,2020,3,Altoona,PA
+"Pittsburgh, PA Metropolitan Statistical Area",6.2,338,2020,3,Pittsburgh,PA
+"Alexandria, LA Metropolitan Statistical Area",6.3,340,2020,3,Alexandria,LA
+"Grand Junction, CO Metropolitan Statistical Area",6.3,340,2020,3,Grand Junction,CO
+"The Villages, FL Metropolitan Statistical Area",6.3,340,2020,3,The Villages,FL
+"Vineland-Bridgeton, NJ Metropolitan Statistical Area",6.3,340,2020,3,Vineland-Bridgeton,NJ
+"Bloomsburg-Berwick, PA Metropolitan Statistical Area",6.4,344,2020,3,Bloomsburg-Berwick,PA
+"Shreveport-Bossier City, LA Metropolitan Statistical Area",6.4,344,2020,3,Shreveport-Bossier City,LA
+"Sierra Vista-Douglas, AZ Metropolitan Statistical Area",6.5,346,2020,3,Sierra Vista-Douglas,AZ
+"Homosassa Springs, FL Metropolitan Statistical Area",6.6,347,2020,3,Homosassa Springs,FL
+"Parkersburg-Vienna, WV Metropolitan Statistical Area",6.6,347,2020,3,Parkersburg-Vienna,WV
+"Beckley, WV Metropolitan Statistical Area",6.7,349,2020,3,Beckley,WV
+"Carson City, NV Metropolitan Statistical Area",6.7,349,2020,3,Carson City,NV
+"Chico, CA Metropolitan Statistical Area",6.7,349,2020,3,Chico,CA
+"Lake Havasu City-Kingman, AZ Metropolitan Statistical Area",6.7,349,2020,3,Lake Havasu City-Kingman,AZ
+"Las Vegas-Henderson-Paradise, NV Metropolitan Statistical Area",6.7,349,2020,3,Las Vegas-Henderson-Paradise,NV
+"Hammond, LA Metropolitan Statistical Area",6.8,354,2020,3,Hammond,LA
+"Redding, CA Metropolitan Statistical Area",6.8,354,2020,3,Redding,CA
+"Yakima, WA Metropolitan Statistical Area",6.8,354,2020,3,Yakima,WA
+"Erie, PA Metropolitan Statistical Area",6.9,357,2020,3,Erie,PA
+"Monroe, LA Metropolitan Statistical Area",6.9,357,2020,3,Monroe,LA
+"Pine Bluff, AR Metropolitan Statistical Area",6.9,357,2020,3,Pine Bluff,AR
+"Pueblo, CO Metropolitan Statistical Area",6.9,357,2020,3,Pueblo,CO
+"Weirton-Steubenville, WV-OH Metropolitan Statistical Area",7.0,361,2020,3,Weirton-Steubenville,WV-OH
+"Flagstaff, AZ Metropolitan Statistical Area",7.1,362,2020,3,Flagstaff,AZ
+"Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area",7.2,363,2020,3,Youngstown-Warren-Boardman,OH-PA
+"Cleveland-Elyria, OH Metropolitan Statistical Area",7.3,364,2020,3,Cleveland-Elyria,OH
+"Farmington, NM Metropolitan Statistical Area",7.3,364,2020,3,Farmington,NM
+"Brownsville-Harlingen, TX Metropolitan Statistical Area",7.4,366,2020,3,Brownsville-Harlingen,TX
+"East Stroudsburg, PA Metropolitan Statistical Area",7.4,366,2020,3,East Stroudsburg,PA
+"Scranton--Wilkes-Barre--Hazleton, PA Metropolitan Statistical Area",7.4,366,2020,3,Scranton--Wilkes-Barre--Hazleton,PA
+"Williamsport, PA Metropolitan Statistical Area",7.4,366,2020,3,Williamsport,PA
+"Beaumont-Port Arthur, TX Metropolitan Statistical Area",7.5,370,2020,3,Beaumont-Port Arthur,TX
+"Las Cruces, NM Metropolitan Statistical Area",7.5,370,2020,3,Las Cruces,NM
+"Watertown-Fort Drum, NY Metropolitan Statistical Area",7.5,370,2020,3,Watertown-Fort Drum,NY
+"Wheeling, WV-OH Metropolitan Statistical Area",7.6,373,2020,3,Wheeling,WV-OH
+"Johnstown, PA Metropolitan Statistical Area",7.7,374,2020,3,Johnstown,PA
+"Santa Cruz-Watsonville, CA Metropolitan Statistical Area",7.9,375,2020,3,Santa Cruz-Watsonville,CA
+"Modesto, CA Metropolitan Statistical Area",8.3,376,2020,3,Modesto,CA
+"Stockton-Lodi, CA Metropolitan Statistical Area",8.3,376,2020,3,Stockton-Lodi,CA
+"McAllen-Edinburg-Mission, TX Metropolitan Statistical Area",8.5,378,2020,3,McAllen-Edinburg-Mission,TX
+"Yuba City, CA Metropolitan Statistical Area",10.0,379,2020,3,Yuba City,CA
+"Madera, CA Metropolitan Statistical Area",10.5,380,2020,3,Madera,CA
+"Fresno, CA Metropolitan Statistical Area",10.8,381,2020,3,Fresno,CA
+"Ocean City, NJ Metropolitan Statistical Area",11.4,382,2020,3,Ocean City,NJ
+"Salinas, CA Metropolitan Statistical Area",11.8,383,2020,3,Salinas,CA
+"Bakersfield, CA Metropolitan Statistical Area",12.0,384,2020,3,Bakersfield,CA
+"Hanford-Corcoran, CA Metropolitan Statistical Area",12.3,385,2020,3,Hanford-Corcoran,CA
+"Merced, CA Metropolitan Statistical Area",12.9,386,2020,3,Merced,CA
+"Visalia-Porterville, CA Metropolitan Statistical Area",14.5,387,2020,3,Visalia-Porterville,CA
+"Yuma, AZ Metropolitan Statistical Area",14.8,388,2020,3,Yuma,AZ
+"El Centro, CA Metropolitan Statistical Area",20.5,389,2020,3,El Centro,CA
