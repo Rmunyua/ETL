@@ -1,4 +1,4 @@
-Metropolitan area,Unemployment Rate,Rank,Year,Month,City/Area,State
+Metropolitan area,Unemployment Rate,Rank,Year,Month,City_Area,State
 "Kahului-Wailuku-Lahaina, HI Metropolitan Statistical Area",2.1,1,2020,3,Kahului-Wailuku-Lahaina,HI
 "Urban Honolulu, HI Metropolitan Statistical Area",2.1,1,2020,3,Urban Honolulu,HI
 "Ames, IA Metropolitan Statistical Area",2.2,3,2020,3,Ames,IA
@@ -44,15 +44,15 @@ Metropolitan area,Unemployment Rate,Rank,Year,Month,City/Area,State
 "Lafayette-West Lafayette, IN Metropolitan Statistical Area",2.9,37,2020,3,Lafayette-West Lafayette,IN
 "Lawrence, KS Metropolitan Statistical Area",2.9,37,2020,3,Lawrence,KS
 "Logan, UT-ID Metropolitan Statistical Area",2.9,37,2020,3,Logan,UT-ID
-"Auburn-Opelika, AL Metropolitan Statistical Area",3.0,46,2020,3,Auburn-Opelika,AL
-"Birmingham-Hoover, AL Metropolitan Statistical Area",3.0,46,2020,3,Birmingham-Hoover,AL
-"Boston-Cambridge-Nashua, MA-NH Metropolitan NECTA",3.0,46,2020,3,Boston-Cambridge-Nashua,MA-NH
-"Columbia, MO Metropolitan Statistical Area",3.0,46,2020,3,Columbia,MO
-"Daphne-Fairhope-Foley, AL Metropolitan Statistical Area",3.0,46,2020,3,Daphne-Fairhope-Foley,AL
-"Fond du Lac, WI Metropolitan Statistical Area",3.0,46,2020,3,Fond du Lac,WI
-"Indianapolis-Carmel-Anderson, IN Metropolitan Statistical Area",3.0,46,2020,3,Indianapolis-Carmel-Anderson,IN
-"Lansing-East Lansing, MI Metropolitan Statistical Area",3.0,46,2020,3,Lansing-East Lansing,MI
-"Staunton-Waynesboro, VA Metropolitan Statistical Area",3.0,46,2020,3,Staunton-Waynesboro,VA
+"Auburn-Opelika, AL Metropolitan Statistical Area",3,46,2020,3,Auburn-Opelika,AL
+"Birmingham-Hoover, AL Metropolitan Statistical Area",3,46,2020,3,Birmingham-Hoover,AL
+"Boston-Cambridge-Nashua, MA-NH Metropolitan NECTA",3,46,2020,3,Boston-Cambridge-Nashua,MA-NH
+"Columbia, MO Metropolitan Statistical Area",3,46,2020,3,Columbia,MO
+"Daphne-Fairhope-Foley, AL Metropolitan Statistical Area",3,46,2020,3,Daphne-Fairhope-Foley,AL
+"Fond du Lac, WI Metropolitan Statistical Area",3,46,2020,3,Fond du Lac,WI
+"Indianapolis-Carmel-Anderson, IN Metropolitan Statistical Area",3,46,2020,3,Indianapolis-Carmel-Anderson,IN
+"Lansing-East Lansing, MI Metropolitan Statistical Area",3,46,2020,3,Lansing-East Lansing,MI
+"Staunton-Waynesboro, VA Metropolitan Statistical Area",3,46,2020,3,Staunton-Waynesboro,VA
 "California-Lexington Park, MD Metropolitan Statistical Area",3.1,55,2020,3,California-Lexington Park,MD
 "Harrisonburg, VA Metropolitan Statistical Area",3.1,55,2020,3,Harrisonburg,VA
 "Mankato-North Mankato, MN Metropolitan Statistical Area",3.1,55,2020,3,Mankato-North Mankato,MN
@@ -143,23 +143,23 @@ Metropolitan area,Unemployment Rate,Rank,Year,Month,City/Area,State
 "Peoria, IL Metropolitan Statistical Area",3.9,129,2020,3,Peoria,IL
 "Springfield, MA-CT Metropolitan NECTA",3.9,129,2020,3,Springfield,MA-CT
 "Springfield, MO Metropolitan Statistical Area",3.9,129,2020,3,Springfield,MO
-"Abilene, TX Metropolitan Statistical Area",4.0,145,2020,3,Abilene,TX
-"Blacksburg-Christiansburg-Radford, VA Metropolitan Statistical Area",4.0,145,2020,3,Blacksburg-Christiansburg-Radford,VA
-"Boulder, CO Metropolitan Statistical Area",4.0,145,2020,3,Boulder,CO
-"Bridgeport-Stamford-Norwalk, CT Metropolitan NECTA",4.0,145,2020,3,Bridgeport-Stamford-Norwalk,CT
-"Eugene, OR Metropolitan Statistical Area",4.0,145,2020,3,Eugene,OR
-"Hickory-Lenoir-Morganton, NC Metropolitan Statistical Area",4.0,145,2020,3,Hickory-Lenoir-Morganton,NC
-"Janesville-Beloit, WI Metropolitan Statistical Area",4.0,145,2020,3,Janesville-Beloit,WI
-"Miami-Fort Lauderdale-West Palm Beach, FL Metropolitan Statistical Area",4.0,145,2020,3,Miami-Fort Lauderdale-West Palm Beach,FL
-"Muncie, IN Metropolitan Statistical Area",4.0,145,2020,3,Muncie,IN
-"Napa, CA Metropolitan Statistical Area",4.0,145,2020,3,Napa,CA
-"Naples-Immokalee-Marco Island, FL Metropolitan Statistical Area",4.0,145,2020,3,Naples-Immokalee-Marco Island,FL
-"New York-Newark-Jersey City, NY-NJ-PA Metropolitan Statistical Area",4.0,145,2020,3,New York-Newark-Jersey City,NY-NJ-PA
-"St. Louis, MO-IL Metropolitan Statistical Area(1)",4.0,145,2020,3,St. Louis,MO-IL
-"Salem, OR Metropolitan Statistical Area",4.0,145,2020,3,Salem,OR
-"San Angelo, TX Metropolitan Statistical Area",4.0,145,2020,3,San Angelo,TX
-"Wilmington, NC Metropolitan Statistical Area",4.0,145,2020,3,Wilmington,NC
-"Winston-Salem, NC Metropolitan Statistical Area",4.0,145,2020,3,Winston-Salem,NC
+"Abilene, TX Metropolitan Statistical Area",4,145,2020,3,Abilene,TX
+"Blacksburg-Christiansburg-Radford, VA Metropolitan Statistical Area",4,145,2020,3,Blacksburg-Christiansburg-Radford,VA
+"Boulder, CO Metropolitan Statistical Area",4,145,2020,3,Boulder,CO
+"Bridgeport-Stamford-Norwalk, CT Metropolitan NECTA",4,145,2020,3,Bridgeport-Stamford-Norwalk,CT
+"Eugene, OR Metropolitan Statistical Area",4,145,2020,3,Eugene,OR
+"Hickory-Lenoir-Morganton, NC Metropolitan Statistical Area",4,145,2020,3,Hickory-Lenoir-Morganton,NC
+"Janesville-Beloit, WI Metropolitan Statistical Area",4,145,2020,3,Janesville-Beloit,WI
+"Miami-Fort Lauderdale-West Palm Beach, FL Metropolitan Statistical Area",4,145,2020,3,Miami-Fort Lauderdale-West Palm Beach,FL
+"Muncie, IN Metropolitan Statistical Area",4,145,2020,3,Muncie,IN
+"Napa, CA Metropolitan Statistical Area",4,145,2020,3,Napa,CA
+"Naples-Immokalee-Marco Island, FL Metropolitan Statistical Area",4,145,2020,3,Naples-Immokalee-Marco Island,FL
+"New York-Newark-Jersey City, NY-NJ-PA Metropolitan Statistical Area",4,145,2020,3,New York-Newark-Jersey City,NY-NJ-PA
+"St. Louis, MO-IL Metropolitan Statistical Area(1)",4,145,2020,3,St. Louis,MO-IL
+"Salem, OR Metropolitan Statistical Area",4,145,2020,3,Salem,OR
+"San Angelo, TX Metropolitan Statistical Area",4,145,2020,3,San Angelo,TX
+"Wilmington, NC Metropolitan Statistical Area",4,145,2020,3,Wilmington,NC
+"Winston-Salem, NC Metropolitan Statistical Area",4,145,2020,3,Winston-Salem,NC
 "Albany-Schenectady-Troy, NY Metropolitan Statistical Area",4.1,162,2020,3,Albany-Schenectady-Troy,NY
 "Bremerton-Silverdale, WA Metropolitan Statistical Area",4.1,162,2020,3,Bremerton-Silverdale,WA
 "Burlington, NC Metropolitan Statistical Area",4.1,162,2020,3,Burlington,NC
@@ -270,11 +270,11 @@ Metropolitan area,Unemployment Rate,Rank,Year,Month,City/Area,State
 "Providence-Warwick, RI-MA Metropolitan NECTA",4.9,260,2020,3,Providence-Warwick,RI-MA
 "Punta Gorda, FL Metropolitan Statistical Area",4.9,260,2020,3,Punta Gorda,FL
 "Syracuse, NY Metropolitan Statistical Area",4.9,260,2020,3,Syracuse,NY
-"El Paso, TX Metropolitan Statistical Area",5.0,272,2020,3,El Paso,TX
-"Fairbanks, AK Metropolitan Statistical Area",5.0,272,2020,3,Fairbanks,AK
-"Vallejo-Fairfield, CA Metropolitan Statistical Area",5.0,272,2020,3,Vallejo-Fairfield,CA
-"Waterbury, CT Metropolitan NECTA",5.0,272,2020,3,Waterbury,CT
-"York-Hanover, PA Metropolitan Statistical Area",5.0,272,2020,3,York-Hanover,PA
+"El Paso, TX Metropolitan Statistical Area",5,272,2020,3,El Paso,TX
+"Fairbanks, AK Metropolitan Statistical Area",5,272,2020,3,Fairbanks,AK
+"Vallejo-Fairfield, CA Metropolitan Statistical Area",5,272,2020,3,Vallejo-Fairfield,CA
+"Waterbury, CT Metropolitan NECTA",5,272,2020,3,Waterbury,CT
+"York-Hanover, PA Metropolitan Statistical Area",5,272,2020,3,York-Hanover,PA
 "Dalton, GA Metropolitan Statistical Area",5.1,277,2020,3,Dalton,GA
 "Grants Pass, OR Metropolitan Statistical Area",5.1,277,2020,3,Grants Pass,OR
 "Gulfport-Biloxi-Pascagoula, MS Metropolitan Statistical Area",5.1,277,2020,3,Gulfport-Biloxi-Pascagoula,MS
@@ -331,7 +331,7 @@ Metropolitan area,Unemployment Rate,Rank,Year,Month,City/Area,State
 "Salisbury, MD-DE Metropolitan Statistical Area",5.8,328,2020,3,Salisbury,MD-DE
 "Charleston, WV Metropolitan Statistical Area",5.9,331,2020,3,Charleston,WV
 "Reading, PA Metropolitan Statistical Area",5.9,331,2020,3,Reading,PA
-"Mansfield, OH Metropolitan Statistical Area",6.0,333,2020,3,Mansfield,OH
+"Mansfield, OH Metropolitan Statistical Area",6,333,2020,3,Mansfield,OH
 "Canton-Massillon, OH Metropolitan Statistical Area",6.1,334,2020,3,Canton-Massillon,OH
 "Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area",6.1,334,2020,3,Huntington-Ashland,WV-KY-OH
 "Lafayette, LA Metropolitan Statistical Area",6.1,334,2020,3,Lafayette,LA
@@ -359,7 +359,7 @@ Metropolitan area,Unemployment Rate,Rank,Year,Month,City/Area,State
 "Monroe, LA Metropolitan Statistical Area",6.9,357,2020,3,Monroe,LA
 "Pine Bluff, AR Metropolitan Statistical Area",6.9,357,2020,3,Pine Bluff,AR
 "Pueblo, CO Metropolitan Statistical Area",6.9,357,2020,3,Pueblo,CO
-"Weirton-Steubenville, WV-OH Metropolitan Statistical Area",7.0,361,2020,3,Weirton-Steubenville,WV-OH
+"Weirton-Steubenville, WV-OH Metropolitan Statistical Area",7,361,2020,3,Weirton-Steubenville,WV-OH
 "Flagstaff, AZ Metropolitan Statistical Area",7.1,362,2020,3,Flagstaff,AZ
 "Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area",7.2,363,2020,3,Youngstown-Warren-Boardman,OH-PA
 "Cleveland-Elyria, OH Metropolitan Statistical Area",7.3,364,2020,3,Cleveland-Elyria,OH
@@ -377,12 +377,12 @@ Metropolitan area,Unemployment Rate,Rank,Year,Month,City/Area,State
 "Modesto, CA Metropolitan Statistical Area",8.3,376,2020,3,Modesto,CA
 "Stockton-Lodi, CA Metropolitan Statistical Area",8.3,376,2020,3,Stockton-Lodi,CA
 "McAllen-Edinburg-Mission, TX Metropolitan Statistical Area",8.5,378,2020,3,McAllen-Edinburg-Mission,TX
-"Yuba City, CA Metropolitan Statistical Area",10.0,379,2020,3,Yuba City,CA
+"Yuba City, CA Metropolitan Statistical Area",10,379,2020,3,Yuba City,CA
 "Madera, CA Metropolitan Statistical Area",10.5,380,2020,3,Madera,CA
 "Fresno, CA Metropolitan Statistical Area",10.8,381,2020,3,Fresno,CA
 "Ocean City, NJ Metropolitan Statistical Area",11.4,382,2020,3,Ocean City,NJ
 "Salinas, CA Metropolitan Statistical Area",11.8,383,2020,3,Salinas,CA
-"Bakersfield, CA Metropolitan Statistical Area",12.0,384,2020,3,Bakersfield,CA
+"Bakersfield, CA Metropolitan Statistical Area",12,384,2020,3,Bakersfield,CA
 "Hanford-Corcoran, CA Metropolitan Statistical Area",12.3,385,2020,3,Hanford-Corcoran,CA
 "Merced, CA Metropolitan Statistical Area",12.9,386,2020,3,Merced,CA
 "Visalia-Porterville, CA Metropolitan Statistical Area",14.5,387,2020,3,Visalia-Porterville,CA
